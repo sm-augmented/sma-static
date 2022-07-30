@@ -40,33 +40,6 @@
       "IsLocked": false
     },
     {
-      "ID": "class_apo",
-      "Value": 4,
-      "Type": 6,
-      "Name": "$1898218;$1898219",
-      "Description": "$104508",
-      "IsVisible": false,
-      "IsLocked": true
-    },
-    {
-      "ID": "class_termie",
-      "Value": 5,
-      "Type": 6,
-      "Name": "$1898255",
-      "Description": "$104508",
-      "IsVisible": false,
-      "IsLocked": false
-    },
-    {
-      "ID": "class_dread",
-      "Value": 6,
-      "Type": 6,
-      "Name": "$1898255",
-      "Description": "$104508",
-      "IsVisible": false,
-      "IsLocked": false
-    },
-    {
       "ID": "combat_knife",
       "Value": 35,
       "Type": 2,
