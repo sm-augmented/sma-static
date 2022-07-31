@@ -7,7 +7,7 @@
       "ID": "class_tactical",
       "Value": 0,
       "Type": 6,
-      "Name": "$104504;$104569",
+      "Name": "$104504;$1898258",
       "Description": "$104507",
       "IsVisible": true,
       "IsLocked": false
@@ -41,7 +41,7 @@
     },
     {
       "ID": "combat_knife",
-      "Value": 35,
+      "Value": "35;386",
       "Type": 2,
       "Name": "$105071",
       "Description": "$105072",
@@ -52,7 +52,7 @@
     },
     {
       "ID": "bolt_pistol",
-      "Value": 34,
+      "Value": "34;389",
       "Type": 0,
       "Name": "$104647",
       "Description": "$104648",
@@ -62,7 +62,7 @@
     },
     {
       "ID": "bolt_pistol_backup",
-      "Value": 33,
+      "Value": "33;445",
       "Type": 0,
       "Name": "$112013",
       "Description": "$119894",
@@ -72,7 +72,7 @@
     },
     {
       "ID": "bolter_godwyn",
-      "Value": 215,
+      "Value": "215;421",
       "Type": 1,
       "Name": "$104639",
       "Description": "$104640",
@@ -83,7 +83,7 @@
     },
     {
       "ID": "chainsword", 
-      "Value": 155,
+      "Value": "155;384",
       "Type": 2,
       "Name": "$105754",
       "Description": "$105755",
@@ -94,7 +94,7 @@
     },
     {
       "ID": "heavy_bolter",
-      "Value": 16,
+      "Value": "16;40",
       "Type": 7,
       "Name": "$104729",
       "Description": "$104730",
@@ -129,8 +129,13 @@
       "Type": 5
     },
     {
-      "ID": "evade_jpa",
+      "ID": "evade_jpa_new",
       "Value": 52,
+      "Type": 5
+    },
+    {
+      "ID": "evade_jpa",
+      "Value": "259;248",
       "Type": 5
     },
     {
@@ -150,7 +155,7 @@
     },
     {
       "ID": "bolter_godwyn_gold",
-      "Value": 69,
+      "Value": "69;423",
       "Type": 1,
       "Name": "$121133;$121160",
       "Description": "$121131;$121158",
@@ -216,7 +221,7 @@
     },
     {
       "ID": "melta_gun",
-      "Value": 13,
+      "Value": "13;308",
       "Type": 1,
       "Name": "$105796",
       "Description": "$117872",
@@ -227,7 +232,7 @@
     },
     {
       "ID": "plasma_gun",
-      "Value": 349,
+      "Value": "349;370",
       "Type": 1,
       "Name": "$104609",
       "Description": "$117870",
@@ -249,7 +254,7 @@
     },
     {
       "ID": "stalker_bolter",
-      "Value": 157,
+      "Value": "157;139",
       "Type": 1,
       "Name": "$103689;$106061",
       "Description": "$117866;$117867",
@@ -260,7 +265,7 @@
     },
     {
       "ID": "storm_bolter_godwyn",
-      "Value": 37,
+      "Value": "37;18",
       "Type": 1,
       "Name": "$122084;$104593",
       "Description": "$117864;$117865",
@@ -315,7 +320,7 @@
     },
     {
       "ID": "lascannon",
-      "Value": 363,
+      "Value": "363;387",
       "Type": 7,
       "Name": "$105827",
       "Description": "$117878",
@@ -326,7 +331,7 @@
     },
     {
       "ID": "plasma_cannon",
-      "Value": 454,
+      "Value": "454;90",
       "Type": 7,
       "Name": "$104753",
       "Description": "$117876",
@@ -427,7 +432,7 @@
     },
     {
       "ID": "chainsword_gold",
-      "Value": 276,
+      "Value": "276;380",
       "Type": 2,
       "Name": "$121143;$121150",
       "Description": "$121142;$121149",
@@ -438,7 +443,7 @@
     },
     {
       "ID": "powersword",
-      "Value": 404,
+      "Value": "404;163",
       "Type": 2,
       "Name": "$119843",
       "Description": "$119977",
@@ -471,7 +476,7 @@
     },
     {
       "ID": "lightning_claw",
-      "Value": 485,
+      "Value": "485;496",
       "Type": 2,
       "Name": "$1897811;$1898117",
       "Description": "$1898176;$1898176",
@@ -493,7 +498,7 @@
     },
     {
       "ID": "thunder_hammer",
-      "Value": 302,
+      "Value": "302;30",
       "Type": 2,
       "Name": "$105780;$106073",
       "Description": "$117856;$117857",
@@ -504,7 +509,7 @@
     },
     {
       "ID": "plasma_pistol",
-      "Value": 15,
+      "Value": "15;294",
       "Type": 0,
       "Name": "$104655",
       "Description": "$117860",
@@ -668,7 +673,7 @@
       "ID": "perk_halo",
       "Value": 379,
       "Type": 3,
-      "Name": "$105912",
+      "Name": "$105912;$1898257",
       "Description": "$105913",
       "IsVisible": true,
       "IsLocked": false,
@@ -705,6 +710,7 @@
       "Description": "$1898196",
       "IsVisible": true,
       "IsLocked": false,
+      "RequiredWargear": "evade_jpa;evade_ga;evade_dev",
       "IconClass": "trusty_sidearm"
     },
     {
@@ -929,28 +935,6 @@
       "IsLocked": false,
       "RequiredWargear": "evade_dev+multi_melta",
       "IconClass": "multi_melting_point"
-    },
-    {
-      "ID": "perk_melta_over",
-      "Value": 320,
-      "Type": 3,
-      "Name": "$1898245",
-      "Description": "$1898246",
-      "IsVisible": true,
-      "IsLocked": false,
-      "RequiredWargear": "evade_tac+melta_gun",
-      "IconClass": "melta_blast_shape_lengthening"
-    },
-    {
-      "ID": "perk_mmelta_over",
-      "Value": 320,
-      "Type": 3,
-      "Name": "$1898245",
-      "Description": "$1898246",
-      "IsVisible": true,
-      "IsLocked": false,
-      "RequiredWargear": "evade_dev+multi_melta",
-      "IconClass": "multi_overlimit"
     },
     {
       "ID": "perk_pg_charge",
@@ -1252,7 +1236,7 @@
     },
     {
       "ID": "pistol_bolter_godwyn",
-      "Value": 6,
+      "Value": "6;120",
       "Type": 8,
       "Name": "$104639",
       "Description": "$104640",
