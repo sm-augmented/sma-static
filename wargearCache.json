@@ -35,7 +35,7 @@
       "Value": 3,
       "Type": 6,
       "Name": "$1898135;$1898214",
-      "Description": "$104508",
+      "Description": "$1898259",
       "IsVisible": true,
       "IsLocked": false
     },
@@ -55,7 +55,7 @@
       "Value": "34;389",
       "Type": 0,
       "Name": "$104647",
-      "Description": "$104648",
+      "Description": "$117858",
       "IsVisible": true,
       "IsLocked": false,
       "IconClass": "bolt_pistol;bolt_pistol_chaos"
@@ -75,7 +75,7 @@
       "Value": "215;421",
       "Type": 1,
       "Name": "$104639",
-      "Description": "$104640",
+      "Description": "$117863",
       "IsVisible": true,
       "IsLocked": false,
       "RequiredWargear": "evade_tac",
@@ -86,7 +86,7 @@
       "Value": "155;384",
       "Type": 2,
       "Name": "$105754",
-      "Description": "$105755",
+      "Description": "$117852",
       "IsVisible": true,
       "IsLocked": false,
       "RequiredWargear": "evade_jpa;evade_ga",
@@ -97,7 +97,7 @@
       "Value": "16;40",
       "Type": 7,
       "Name": "$104729",
-      "Description": "$104730",
+      "Description": "$117874",
       "IsVisible": true,
       "IsLocked": false,
       "RequiredWargear": "evade_dev",
@@ -1266,6 +1266,13 @@
       "IsLocked": false,
       "RequiredWargear": "evade_jpa+perk_tgrit;evade_ga+perk_tgrit",
       "IconClass": "bolter_tigrus"
+    },
+    {
+      "ID": "ga_fury",
+      "Value": 285,
+      "Type": 1,
+      "IsVisible": false,
+      "RequiredWargear": "evade_ga"
     }
   ]
 }
