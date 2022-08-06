@@ -286,6 +286,17 @@
       "IconClass": "autocannon"
     },
     {
+      "ID": "autocannon_ap",
+      "Value": 200,
+      "Type": 7,
+      "Name": "$103348",
+      "Description": "$103347",
+      "IsVisible": true,
+      "IsLocked": false,
+      "RequiredWargear": "evade_dev",
+      "IconClass": "autocannon"
+    },
+    {
       "ID": "missile_launcher",
       "Value": 306,
       "Type": 7,
@@ -693,7 +704,7 @@
     },
     {
       "ID": "perk_signum",
-      "Value": 118,
+      "Value": 198,
       "Type": 3,
       "Name": "$111815",
       "Description": "$111816",
@@ -941,7 +952,7 @@
       "Value": 7,
       "Type": 3,
       "Name": "$111588",
-      "Description": "$1898253",
+      "Description": "$1898260",
       "IsVisible": true,
       "IsLocked": false,
       "RequiredWargear": "evade_tac+plasma_gun",
@@ -1032,7 +1043,7 @@
       "Description": "$1898249",
       "IsVisible": true,
       "IsLocked": false,
-      "RequiredWargear": "evade_dev+autocannon_he",
+      "RequiredWargear": "evade_dev+autocannon_he;evade_dev+autocannon_ap",
       "IconClass": "ac_expert"
     },
     {
@@ -1054,7 +1065,7 @@
       "Description": "$1898251",
       "IsVisible": true,
       "IsLocked": false,
-      "RequiredWargear": "evade_dev+autocannon_he",
+      "RequiredWargear": "evade_dev+autocannon_he;evade_dev+autocannon_ap",
       "IconClass": "ac_coolant"
     },
     {
