@@ -615,6 +615,17 @@
       "IconClass": "larramans_blessing"
     },
     {
+      "ID": "perk_ckzeal",
+      "Value": 473,
+      "Type": 3,
+      "Name": "$105882",
+      "Description": "$105883",
+      "IsVisible": true,
+      "IsLocked": false,
+      "RequiredWargear": "evade_tac",
+      "IconClass": "combat_knife_training"
+    },
+    {
       "ID": "perk_treadout",
       "Value": 75,
       "Type": 3,
