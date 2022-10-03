@@ -957,6 +957,27 @@
       "IsLocked": false,
       "RequiredWargear": "evade_dev+multi_melta",
       "IconClass": "multi_melting_point"
+    },{
+      "ID": "perk_melta_over",
+      "Value": 320,
+      "Type": 3,
+      "Name": "$1898245",
+      "Description": "$1898246",
+      "IsVisible": true,
+      "IsLocked": false,
+      "RequiredWargear": "evade_tac+melta_gun",
+      "IconClass": "melta_blast_shape_lengthening"
+    },
+    {
+      "ID": "perk_mmelta_over",
+      "Value": 320,
+      "Type": 3,
+      "Name": "$1898245",
+      "Description": "$1898246",
+      "IsVisible": true,
+      "IsLocked": false,
+      "RequiredWargear": "evade_dev+multi_melta",
+      "IconClass": "multi_overlimit"
     },
     {
       "ID": "perk_pg_charge",
