@@ -2,6 +2,8 @@
   "order": {
 
   },
+  "upgrades": [
+  ],
   "wargear": [
     {
       "ID": "class_tactical",
