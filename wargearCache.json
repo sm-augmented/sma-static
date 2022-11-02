@@ -2,6 +2,413 @@
   "order": {
 
   },
+  "upgrades": [
+    {
+      "ID": "eac_helmet_visor_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "helmet_visor"
+    },
+    {
+      "ID": "eac_helmet_shape_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "helmet_shape"
+    },
+    {
+      "ID": "eac_helmet_optics_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "helmet_optics"
+    },
+    {
+      "ID": "eac_helmet_crest_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "helmet_crest"
+    },
+    {
+      "ID": "eac_helmet_filters_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "helmet_filters"
+    },
+    {
+      "ID": "eac_helmet_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "helmet_accessory"
+    },
+    {
+      "ID": "eac_shldrl_plate_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrl_plate"
+    },
+    {
+      "ID": "eac_shldrl_trim_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrl_trim"
+    },
+    {
+      "ID": "eac_shldrl_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrl_accessory"
+    },
+    {
+      "ID": "eac_shldrl_shield_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrl_shield"
+    },
+    {
+      "ID": "eac_shldrr_plate_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrr_plate"
+    },
+    {
+      "ID": "eac_shldrr_trim_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrr_trim"
+    },
+    {
+      "ID": "eac_shldrr_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrr_accessory"
+    },
+    {
+      "ID": "eac_shldrr_shield_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "shldrr_shield"
+    },
+    {
+      "ID": "eac_arml_shoulder_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "arml_shoulder"
+    },
+    {
+      "ID": "eac_arml_forearm_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "arml_forearm"
+    },
+    {
+      "ID": "eac_arml_elbow_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "arml_elbow"
+    },
+    {
+      "ID": "eac_arml_hand_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "arml_hand"
+    },
+    {
+      "ID": "eac_arml_armor_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "arml_armor"
+    },
+    {
+      "ID": "eac_arml_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "arml_accessory"
+    },
+    {
+      "ID": "eac_armr_shoulder_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "armr_shoulder"
+    },
+    {
+      "ID": "eac_armr_forearm_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "armr_forearm"
+    },
+    {
+      "ID": "eac_armr_elbow_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "armr_elbow"
+    },
+    {
+      "ID": "eac_armr_hand_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "armr_hand"
+    },
+    {
+      "ID": "eac_armr_armor_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "armr_armor"
+    },
+    {
+      "ID": "eac_armr_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "armr_accessory"
+    },
+    {
+      "ID": "eac_torso_chest_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_chest"
+    },
+    {
+      "ID": "eac_torso_pelvis_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_pelvis"
+    },
+    {
+      "ID": "eac_torso_cloth_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_cloth"
+    },
+    {
+      "ID": "eac_torso_belt_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_belt"
+    },
+    {
+      "ID": "eac_torso_gorget_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_gorget"
+    },
+    {
+      "ID": "eac_torso_armor_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_armor"
+    },
+    {
+      "ID": "eac_torso_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "torso_accessory"
+    },
+    {
+      "ID": "eac_legl_hip_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legl_hip"
+    },
+    {
+      "ID": "eac_legl_shin_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legl_shin"
+    },
+    {
+      "ID": "eac_legl_knee_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legl_knee"
+    },
+    {
+      "ID": "eac_legl_boot_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legl_boot"
+    },
+    {
+      "ID": "eac_legl_trim_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legl_trim"
+    },
+    {
+      "ID": "eac_legl_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legl_accessory"
+    },
+    {
+      "ID": "eac_legr_hip_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legr_hip"
+    },
+    {
+      "ID": "eac_legr_shin_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legr_shin"
+    },
+    {
+      "ID": "eac_legr_knee_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legr_knee"
+    },
+    {
+      "ID": "eac_legr_boot_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legr_boot"
+    },
+    {
+      "ID": "eac_legr_trim_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legr_trim"
+    },
+    {
+      "ID": "eac_legr_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "legr_accessory"
+    },
+    {
+      "ID": "eac_backpack_shape_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "backpack_shape"
+    },
+    {
+      "ID": "eac_backpack_nozzles_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "backpack_nozzles"
+    },
+    {
+      "ID": "eac_backpack_accessory_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "backpack_accessory"
+    },
+    {
+      "ID": "eac_backpack_jump_pack_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "backpack_jump_pack"
+    },
+    {
+      "ID": "eac_backpack_jump_pack_mk3",
+      "Name": "$1897814",
+      "RequiredWargear": "",
+      "Category": "backpack_jump_pack"
+    },
+    {
+      "ID": "eac_helmet_visor_mk2_mono",
+      "Name": "$1898292",
+      "RequiredWargear": "helmet_mk2",
+      "Category": "helmet_visor",
+      "IsVisible": false
+    },
+    {
+      "ID": "eac_helmet_visor_mk2_piked",
+      "Name": "$1898288",
+      "RequiredWargear": "helmet_mk2",
+      "Category": "helmet_visor",
+      "IsVisible": false
+    },
+    {
+      "ID": "eac_helmet_visor_mk2_crest",
+      "Name": "$1898289",
+      "RequiredWargear": "helmet_mk2",
+      "Category": "helmet_visor",
+      "IsVisible": false
+    },
+    {
+      "ID": "eac_helmet_visor_mk2_breacher",
+      "Name": "$1898287",
+      "RequiredWargear": "helmet_mk2",
+      "Category": "helmet_visor",
+      "IsVisible": false
+    },
+    {
+      "ID": "eac_weapon_bolter_godwyn_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "weapon_bolter_godwyn"
+    },
+    {
+      "ID": "eac_weapon_bolter_godwyn_golden",
+      "Name": "$121133",
+      "RequiredWargear": "",
+      "Category": "weapon_bolter_godwyn",
+      "Faction": "sm"
+    },
+    {
+      "ID": "eac_weapon_plasma_gun_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "weapon_plasma_gun"
+    },
+    {
+      "ID": "eac_weapon_plasma_gun_green",
+      "Name": "$1898327",
+      "RequiredWargear": "",
+      "Category": "weapon_plasma_gun",
+      "Faction": "sm",
+      "IsVisible": false
+    },
+    {
+      "ID": "eac_weapon_power_sword_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "weapon_power_sword"
+    },
+    {
+      "ID": "eac_stub_1",
+      "Name": "$1898331",
+      "RequiredWargear": "",
+      "Category": "weapon_power_sword"
+    },
+    {
+      "ID": "eac_stub_2",
+      "Name": "$1898332",
+      "RequiredWargear": "",
+      "Category": "weapon_power_sword"
+    },
+    {
+      "ID": "eac_weapon_lightning_claw_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "weapon_lightning_claw"
+    },
+    {
+      "ID": "eac_weapon_lightning_claw_heresy",
+      "Name": "$1898328",
+      "RequiredWargear": "",
+      "Category": "weapon_lightning_claw"
+    },
+    {
+      "ID": "eac_weapon_chainsword_default",
+      "Name": "$1898323",
+      "RequiredWargear": "",
+      "Category": "weapon_chainsword"
+    },
+    {
+      "ID": "eac_weapon_chainsword_blocky",
+      "Name": "$1898329",
+      "RequiredWargear": "",
+      "Category": "weapon_chainsword",
+      "Faction": "sm"
+    },
+    {
+      "ID": "eac_weapon_chainsword_golden",
+      "Name": "$1898330",
+      "RequiredWargear": "",
+      "Category": "weapon_chainsword",
+      "Faction": "sm"
+    }
+  ],
   "wargear": [
     {
       "ID": "class_tactical",
@@ -159,7 +566,7 @@
       "Type": 1,
       "Name": "$121133;$121160",
       "Description": "$121131;$121158",
-      "IsVisible": true,
+      "IsVisible": false,
       "IsLocked": false,
       "RequiredWargear": "evade_tac",
       "IconClass": "bolter;bolter_chaos"
